@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Dilan Lopez!</h1>
-<span>obs: esse e um novo gitub focado em projetos opensource</span>
+<span>obs: esse e um novo github focado em projetos opensource</span>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=480&lines=Desenvolvedor+Fullstack+Pleno;6+anos+de+experiência+em+tecnologia;Apaixonado+por+código+e+inovação;Backend+%2B+Frontend+%2B+IA" alt="Typing SVG" />
