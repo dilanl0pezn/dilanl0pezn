@@ -9,21 +9,21 @@
 
 ### 🚀 Sobre mim
 
-💻 Sou um **Desenvolvedor Fullstack Pleno** com **+6 anos de experiência** em projetos robustos e escaláveis.  
+💻 Sou um **Desenvolvedor Fullstack Pleno** com **+6 anos de experiência** em projetos robustos e escaláveis. atualmente cursando superior em Inteligência Artificial 
 🛠️ Atuo tanto no **backend**, com foco em performance e arquitetura, quanto no **frontend**, com interfaces modernas e responsivas.  
 🧠 Apaixonado por Inteligência Artificial, explorando **LangChain**, **RAG** e **Fine-tuning** com **Python**.  
 🚢 Curioso por DevOps, microserviços, mensageria e novas tendências de tecnologia.  
-📱 Também tenho experiência com desenvolvimento **mobile** utilizando **React Native**.
+📱 Também tenho experiência com desenvolvimento **mobile** utilizando **React Native** e **Flutter**. 
 
 ---
 
 ### 🧰 Tecnologias que domino
 
 #### ⚙️ Backend
-- **Node.js** (Express, Fastify, NestJS)
+- **Node.js** (Express, Fastify, NestJS, Typescript)
 - **C# (.NET)** (ASP.NET, .NET Core, Entity Framework)
 - **Golang**
-- **ORMs**: TypeORM, Prisma, Sequelize, Entity Framework
+- **ORMs**: TypeORM, Prisma, Sequelize, Entity Framework, Drizzle
 
 #### 🎨 Frontend & Mobile
 - **React.js**
@@ -49,6 +49,7 @@
 #### 🐳 DevOps & Outros
 - **Docker**
 - **Kafka**
+- **Kubernets**
 - Git, GitHub Actions, CI/CD pipelines
 
 ---
