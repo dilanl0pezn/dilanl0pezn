@@ -2,14 +2,14 @@
 <span>obs: esse e um novo github focado em projetos opensource</span>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=480&lines=Desenvolvedor+Fullstack+Pleno;6+anos+de+experiência+em+tecnologia;Apaixonado+por+código+e+inovação;Backend+%2B+Frontend+%2B+IA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=480&lines=Desenvolvedor+Fullstack+Sênior;8+anos+de+experiência+em+tecnologia;Apaixonado+por+código+e+inovação;Backend+%2B+Frontend+%2B+IA" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-💻 Sou um **Desenvolvedor Fullstack Pleno** com **+6 anos de experiência** em projetos robustos e escaláveis. atualmente cursando superior em Inteligência Artificial 
+💻 Sou um **Desenvolvedor Fullstack Sênior** com **+8 anos de experiência** em projetos robustos e escaláveis. atualmente cursando superior em Inteligência Artificial 
 🛠️ Atuo tanto no **backend**, com foco em performance e arquitetura, quanto no **frontend**, com interfaces modernas e responsivas.  
 🧠 Apaixonado por Inteligência Artificial, explorando **LangChain**, **RAG** e **Fine-tuning** com **Python**.  
 🚢 Curioso por DevOps, microserviços, mensageria e novas tendências de tecnologia.  
